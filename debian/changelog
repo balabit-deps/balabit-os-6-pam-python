@@ -1,3 +1,15 @@
+pam-python (1.0.4-1.1+deb8u1build0.16.04.1) xenial-security; urgency=medium
+
+  * fake sync from Debian
+
+ -- Mike Salvatore <mike.salvatore@canonical.com>  Wed, 21 Oct 2020 13:36:26 -0400
+
+pam-python (1.0.4-1.1+deb8u1) jessie-security; urgency=high
+
+  * Backport fix CVE-2019-16729 backport from 1.0.7.
+
+ -- Russell Stuart <russell-debian@stuart.id.au>  Mon, 28 Oct 2019 08:20:25 +1000
+
 pam-python (1.0.4-1) unstable; urgency=low
 
   * New upstream, moved to AGPL-3.0.
